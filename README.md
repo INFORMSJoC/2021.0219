@@ -1,9 +1,8 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
-
-This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+# A Polyhedral Study on Fuel-Constrained Unit Commitment
+<!--- 
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
@@ -15,6 +14,7 @@ in the development repository.
 **Important: This code is being developed on an on-going basis at 
 https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
 get a more recent version or would like support**
+--->
 
 ## Cite
 
