@@ -26,7 +26,7 @@ get a more recent version or would like support**
 
 To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2021.0219) using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+[![DOI](https://zenodo.org/badge/517175442.svg)](https://zenodo.org/badge/latestdoi/517175442)
 
 Below is the BibTex for citing this version of the code.
 
@@ -36,7 +36,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {A Polyhedral Study on Fuel-Constrained Unit Commitment},
   year =          {2022},
-  doi =           {10.5281/zenodo.3977566},
+  doi =           {10.5281/zenodo.6896199},
   url =           {https://github.com/INFORMSJoC/2021.0219},
 }  
 ```
