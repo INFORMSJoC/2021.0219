@@ -2,6 +2,8 @@
 
 # A Polyhedral Study on Fuel-Constrained Unit Commitment
 
+This repository includes the data set and code used in the computational experiments of the paper: A Polyhedral Study on Fuel-Constrained Unit Commitment, which is co-authored by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu.
+
 <!---
 # CacheTest
 
@@ -29,16 +31,17 @@ To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
-  author =        {T. Ralphs},
+@article{panuc2022,
+  author =        {Pan, Kai and Zhao, Ming and Li, Chung-Lun and Qiu, Feng},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest} Version v1.0},
-  year =          {2020},
-  doi =           {10.5281/zenodo.3977566},
-  url =           {https://github.com/INFORMSJoC/JoCTemplate},
+  title =         {A Polyhedral Study on Fuel-Constrained Unit Commitment},
+  year =          {2022},
+  doi =           {xx.xxxx/zenodo.xxxxxxx},
+  url =           {https://github.com/INFORMSJoC/2021.0219},
 }  
 ```
 
+<!---
 ## Description
 
 The goal of this software is to demonstrate the effect of cache optimization.
@@ -106,3 +109,4 @@ This code is being developed on an on-going basis at the author's
 
 For support in using this software, submit an
 [issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+--->
