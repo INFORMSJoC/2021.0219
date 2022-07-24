@@ -31,7 +31,7 @@ To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{panuc2022,
+@article{kaipanuc2022,
   author =        {Pan, Kai and Zhao, Ming and Li, Chung-Lun and Qiu, Feng},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Polyhedral Study on Fuel-Constrained Unit Commitment},
