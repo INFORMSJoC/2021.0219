@@ -4,11 +4,11 @@
 
 This repository includes the data set and code used in the computational experiments of the paper: A Polyhedral Study on Fuel-Constrained Unit Commitment, which is co-authored by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu.
 
-<!---
-# CacheTest
-
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+<!---
+# CacheTest
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
