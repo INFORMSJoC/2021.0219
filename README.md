@@ -36,7 +36,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {A Polyhedral Study on Fuel-Constrained Unit Commitment},
   year =          {2022},
-  doi =           {xx.xxxx/zenodo.xxxxxxx},
+  doi =           {10.5281/zenodo.3977566},
   url =           {https://github.com/INFORMSJoC/2021.0219},
 }  
 ```
